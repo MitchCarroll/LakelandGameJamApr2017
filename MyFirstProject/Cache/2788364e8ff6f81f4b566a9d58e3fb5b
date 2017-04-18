@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<node id="0">
+	<attribute name="Is Enabled" value="true" />
+	<attribute name="Name" value="" />
+	<attribute name="Tags" />
+	<attribute name="Position" value="0 0 0" />
+	<attribute name="Rotation" value="1 0 0 0" />
+	<attribute name="Scale" value="1 1 1" />
+	<attribute name="Variables" />
+	<component type="StaticModel" id="0">
+		<attribute name="Model" value="Model;2788364e8ff6f81f4b566a9d58e3fb5b.mdl" />
+		<attribute name="Material" value="Material;Models/Materials/DefaultMaterial.material" />
+		<attribute name="Geometry Enabled">
+			<variant type="Bool" value="true" />
+		</attribute>
+	</component>
+</node>
