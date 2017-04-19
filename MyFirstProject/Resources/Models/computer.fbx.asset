@@ -1,8 +1,8 @@
 {
 	"version": 1,
-	"guid": "2788364e8ff6f81f4b566a9d58e3fb5b",
+	"guid": "1563d25dba1a5e354d2c3ac951453761",
 	"ModelImporter": {
-		"scale": 0.01,
+		"scale": 1,
 		"importAnimations": false,
 		"importMaterials": true,
 		"animInfo": []
