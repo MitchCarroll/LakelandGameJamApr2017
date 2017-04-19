@@ -21,6 +21,11 @@
 							"caNamed": {}
 						}
 					]
+				},
+				{
+					"name": "Component",
+					"namespace": "",
+					"fields": []
 				}
 			]
 		}

@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <scene id="1">
-	<attribute name="Name" value="" />
+	<attribute name="Name" value="My First Project" />
 	<attribute name="Time Scale" value="1" />
 	<attribute name="Smoothing Constant" value="50" />
 	<attribute name="Snap Threshold" value="5" />
 	<attribute name="Elapsed Time" value="0" />
-	<attribute name="Next Replicated Node ID" value="372" />
-	<attribute name="Next Replicated Component ID" value="1986" />
+	<attribute name="Next Replicated Node ID" value="374" />
+	<attribute name="Next Replicated Component ID" value="1988" />
 	<attribute name="Next Local Node ID" value="16778496" />
 	<attribute name="Next Local Component ID" value="16777216" />
 	<attribute name="Variables" />
@@ -32,13 +32,15 @@
 		<attribute name="Is Enabled" value="true" />
 		<attribute name="Name" value="GlobalLight" />
 		<attribute name="Tags" />
-		<attribute name="Position" value="0 0 0" />
+		<attribute name="Position" value="0 200 -100" />
 		<attribute name="Rotation" value="0.888074 0.325058 -0.325058 0" />
 		<attribute name="Scale" value="1 1 1" />
 		<attribute name="Variables" />
 		<component type="Light" id="5">
-			<attribute name="Light Type" value="Directional" />
+			<attribute name="Range" value="10000" />
+			<attribute name="Light Shape Texture" value="TextureCube;" />
 			<attribute name="Cast Shadows" value="true" />
+			<attribute name="Per Vertex" value="true" />
 			<attribute name="CSM Splits" value="10 20 50 0" />
 			<attribute name="View Size Quantize" value="1" />
 			<attribute name="View Size Minimum" value="5" />
@@ -50,42 +52,62 @@
 		<attribute name="Is Enabled" value="true" />
 		<attribute name="Name" value="Camera" />
 		<attribute name="Tags" />
-		<attribute name="Position" value="0 74 -200" />
-		<attribute name="Rotation" value="0.998135 0.0610485 0 0" />
+		<attribute name="Position" value="0 82.401 -235.843" />
+		<attribute name="Rotation" value="0.998097 0.0610462 -0.00871026 0.000532742" />
 		<attribute name="Scale" value="1 1 1" />
 		<attribute name="Variables" />
 		<component type="Camera" id="1973" />
 	</node>
-	<node id="370">
+	<node id="373">
 		<attribute name="Is Enabled" value="true" />
-		<attribute name="Name" value="computer" />
+		<attribute name="Name" value="Desk" />
 		<attribute name="Tags" />
-		<attribute name="Position" value="68.1602 -3.97182 6.0955" />
-		<attribute name="Rotation" value="0.649448 0 0.760406 0" />
+		<attribute name="Position" value="-4.63009 91.21 -65.5809" />
+		<attribute name="Rotation" value="0.923879 0 0.382684 0" />
 		<attribute name="Scale" value="1 1 1" />
 		<attribute name="Variables" />
-		<component type="StaticModel" id="1984">
-			<attribute name="Model" value="Model;1563d25dba1a5e354d2c3ac951453761.mdl" />
+		<component type="StaticModel" id="1987">
+			<attribute name="Model" value="Model;2194ee988c32f64a0b3e204c80a14b2a.mdl" />
 			<attribute name="Material" value="Material;Models/Materials/Material.material" />
 			<attribute name="Geometry Enabled">
 				<variant type="Bool" value="true" />
 			</attribute>
 		</component>
-	</node>
-	<node id="371">
-		<attribute name="Is Enabled" value="true" />
-		<attribute name="Name" value="computer" />
-		<attribute name="Tags" />
-		<attribute name="Position" value="-62.6021 -3.97 9.21847" />
-		<attribute name="Rotation" value="0.782608 0 0.622515 0" />
-		<attribute name="Scale" value="1 1 1" />
-		<attribute name="Variables" />
-		<component type="StaticModel" id="1985">
-			<attribute name="Model" value="Model;1563d25dba1a5e354d2c3ac951453761.mdl" />
-			<attribute name="Material" value="Material;Models/Materials/Material.material" />
-			<attribute name="Geometry Enabled">
-				<variant type="Bool" value="true" />
-			</attribute>
-		</component>
+		<node id="371">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="computer" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="-60.1374 -100.363 -23.2746" />
+			<attribute name="Rotation" value="0.961262 0 0.275638 0" />
+			<attribute name="Scale" value="1 1 1" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="1985">
+				<attribute name="Model" value="Model;1563d25dba1a5e354d2c3ac951453761.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.material" />
+				<attribute name="Is Occluder" value="true" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="370">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="computer" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="30.1238 -100.365 72.8171" />
+			<attribute name="Rotation" value="0.891007 0 0.45399 0" />
+			<attribute name="Scale" value="1 1 1" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="1984">
+				<attribute name="Model" value="Model;1563d25dba1a5e354d2c3ac951453761.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.material" />
+				<attribute name="Is Occluder" value="true" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
 	</node>
 </scene>
