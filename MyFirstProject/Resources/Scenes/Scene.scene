@@ -5,8 +5,8 @@
 	<attribute name="Smoothing Constant" value="50" />
 	<attribute name="Snap Threshold" value="5" />
 	<attribute name="Elapsed Time" value="0" />
-	<attribute name="Next Replicated Node ID" value="378" />
-	<attribute name="Next Replicated Component ID" value="1992" />
+	<attribute name="Next Replicated Node ID" value="379" />
+	<attribute name="Next Replicated Component ID" value="1993" />
 	<attribute name="Next Local Node ID" value="16778496" />
 	<attribute name="Next Local Component ID" value="16777216" />
 	<attribute name="Variables" />
@@ -38,7 +38,7 @@
 		<attribute name="Is Enabled" value="true" />
 		<attribute name="Name" value="Camera" />
 		<attribute name="Tags" />
-		<attribute name="Position" value="0 82.401 -235.843" />
+		<attribute name="Position" value="1.6574 92.0903 -330.795" />
 		<attribute name="Rotation" value="0.998097 0.0610462 -0.00871026 0.000532742" />
 		<attribute name="Scale" value="1 1 1" />
 		<attribute name="Variables" />
