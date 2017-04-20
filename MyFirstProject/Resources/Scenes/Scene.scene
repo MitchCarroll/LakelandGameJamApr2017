@@ -5,17 +5,15 @@
 	<attribute name="Smoothing Constant" value="50" />
 	<attribute name="Snap Threshold" value="5" />
 	<attribute name="Elapsed Time" value="0" />
-	<attribute name="Next Replicated Node ID" value="377" />
-	<attribute name="Next Replicated Component ID" value="1991" />
+	<attribute name="Next Replicated Node ID" value="378" />
+	<attribute name="Next Replicated Component ID" value="1992" />
 	<attribute name="Next Local Node ID" value="16778496" />
 	<attribute name="Next Local Component ID" value="16777216" />
 	<attribute name="Variables" />
 	<attribute name="Variable Names" value="" />
 	<component type="PhysicsWorld" id="1" />
 	<component type="Octree" id="2" />
-	<component type="DebugRenderer" id="3">
-		<attribute name="Line Antialias" value="true" />
-	</component>
+	<component type="DebugRenderer" id="3" />
 	<node id="3">
 		<attribute name="Is Enabled" value="true" />
 		<attribute name="Name" value="GlobalLight" />
@@ -53,7 +51,7 @@
 		<attribute name="Is Enabled" value="true" />
 		<attribute name="Name" value="Desk" />
 		<attribute name="Tags" />
-		<attribute name="Position" value="-4.63009 105.108 -65.5809" />
+		<attribute name="Position" value="10.4333 192.96 -65.5809" />
 		<attribute name="Rotation" value="0.923879 0 0.382684 0" />
 		<attribute name="Scale" value="1 1 1" />
 		<attribute name="Variables" />
@@ -70,7 +68,7 @@
 			<attribute name="Is Enabled" value="true" />
 			<attribute name="Name" value="computer" />
 			<attribute name="Tags" />
-			<attribute name="Position" value="-60.1374 -100.363 -23.2746" />
+			<attribute name="Position" value="-41.6641 -158.916 -49.3524" />
 			<attribute name="Rotation" value="0.961262 0 0.275638 0" />
 			<attribute name="Scale" value="0.25 0.25 0.25" />
 			<attribute name="Variables" />
@@ -88,7 +86,7 @@
 			<attribute name="Is Enabled" value="true" />
 			<attribute name="Name" value="computer" />
 			<attribute name="Tags" />
-			<attribute name="Position" value="15.8492 -100.365 62.4461" />
+			<attribute name="Position" value="34.3228 -158.918 36.3686" />
 			<attribute name="Rotation" value="0.891007 0 0.45399 0" />
 			<attribute name="Scale" value="0.25 0.25 0.25" />
 			<attribute name="Variables" />

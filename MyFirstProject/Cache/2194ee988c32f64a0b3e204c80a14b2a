@@ -9,7 +9,7 @@
 	<attribute name="Variables" />
 	<component type="StaticModel" id="0">
 		<attribute name="Model" value="Model;2194ee988c32f64a0b3e204c80a14b2a.mdl" />
-		<attribute name="Material" value="Material;Models/Materials/Material.material" />
+		<attribute name="Material" value="Material;Models/Materials/DefaultMaterial.material" />
 		<attribute name="Geometry Enabled">
 			<variant type="Bool" value="true" />
 		</attribute>
