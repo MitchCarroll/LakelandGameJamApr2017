@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <material>
-	<technique name="Techniques/NoTexture.xml" quality="0" loddistance="0" />
+	<technique name="Techniques/Diff.xml" quality="0" loddistance="0" />
+	<texture unit="diffuse" name="Textures/DeskTexture.png" />
 	<parameter name="UOffset" value="1 0 0 0" />
 	<parameter name="VOffset" value="0 1 0 0" />
 	<parameter name="MatDiffColor" value="0.54 0.54 0.54 1" />
@@ -14,6 +15,7 @@
 	<fill value="solid" />
 	<depthbias constant="0" slopescaled="0" />
 	<alphatocoverage enable="false" />
+	<lineantialias enable="false" />
 	<renderorder value="128" />
 	<occlusion enable="true" />
 </material>
