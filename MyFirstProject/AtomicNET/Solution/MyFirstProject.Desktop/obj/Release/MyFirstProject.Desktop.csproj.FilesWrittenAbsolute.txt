@@ -1,0 +1,6 @@
+/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/AtomicNET/Solution/MyFirstProject.Desktop/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/AtomicNET/Release/Bin/Desktop/libAtomicNETNative.so
+/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/AtomicNET/Release/Bin/Desktop/MyFirstProject.exe.mdb
+/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/AtomicNET/Release/Bin/Desktop/MyFirstProject.exe
+/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/AtomicNET/Solution/MyFirstProject.Desktop/obj/Release/MyFirstProject.exe
+/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/AtomicNET/Solution/MyFirstProject.Desktop/obj/Release/MyFirstProject.exe.mdb
