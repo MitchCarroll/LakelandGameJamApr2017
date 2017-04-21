@@ -10,6 +10,7 @@ public class Spinner : CSComponent
     {
 		var input = GetSubsystem<Input>();
 		Node.Yaw(input.GetMouseMoveX(),TransformSpace.TS_WORLD);
-    }
+		input.SetMouseVisible(false);
+	}
 
 }
