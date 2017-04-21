@@ -9,7 +9,7 @@ public class Spinner : CSComponent
     void Update(float timeStep)
     {
 		var input = GetSubsystem<Input>();
-		Node.Yaw(input.GetMouseMoveX());
+		Node.Yaw(input.GetMouseMoveX(),TransformSpace.TS_WORLD);
     }
 
 }
