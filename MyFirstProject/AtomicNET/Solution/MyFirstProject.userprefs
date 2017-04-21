@@ -1,7 +1,11 @@
 ﻿<Properties StartupConfiguration="{071BB150-7518-11E6-AB1D-005056C00008}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../Resources/Scripts/AtomicMain.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Resources/Components/Spinner.cs">
     <Files>
       <File FileName="../../Resources/Scripts/AtomicMain.cs" Line="1" Column="1" />
+      <File FileName="../../../../../../../usr/bin/monodevelop" Line="1" Column="1" />
+      <File FileName="../../../../../AtomicProjects/atomicMutant/Resources/Components/CharacterExample.cs" Line="73" Column="21" />
+      <File FileName="../../../../../AtomicProjects/atomicMutant/Resources/Components/Character.cs" Line="1" Column="1" />
+      <File FileName="../../Resources/Components/Spinner.cs" Line="11" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

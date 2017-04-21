@@ -4,12 +4,12 @@ using AtomicEngine;
 public class Spinner : CSComponent
 {
 
-    [Inspector]
-    float speed = 1.0f;    
+   // [Inspector]    
 
     void Update(float timeStep)
     {
-        Node.Yaw(speed * timeStep * 75.0f);
+		var input = GetSubsystem<Input>();
+		Node.Yaw(input.GetMouseMoveX());
     }
 
 }

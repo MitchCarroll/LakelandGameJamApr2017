@@ -8,19 +8,7 @@
 				{
 					"name": "Spinner",
 					"namespace": "",
-					"fields": [
-						{
-							"isEnum": false,
-							"isArray": false,
-							"typeName": "Single",
-							"name": "speed",
-							"defaultValue": "1",
-							"caPos": [
-								""
-							],
-							"caNamed": {}
-						}
-					]
+					"fields": []
 				},
 				{
 					"name": "Component",
