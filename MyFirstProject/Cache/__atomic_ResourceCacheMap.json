@@ -2,11 +2,11 @@
 	"assetMap": {
 		"Node;models/mug.fbx": "750fba157245cc8a0cd8d0d4bcc327a8",
 		"Model;models/mug.fbx": "750fba157245cc8a0cd8d0d4bcc327a8.mdl",
-		"Node;models/plane.fbx": "f389bf15d93b84a220207972988f8d16",
-		"Model;models/plane.fbx": "f389bf15d93b84a220207972988f8d16.mdl",
 		"Node;models/desk.fbx": "2194ee988c32f64a0b3e204c80a14b2a",
 		"Model;models/desk.fbx": "2194ee988c32f64a0b3e204c80a14b2a.mdl",
 		"Node;models/computer.fbx": "1563d25dba1a5e354d2c3ac951453761",
-		"Model;models/computer.fbx": "1563d25dba1a5e354d2c3ac951453761.mdl"
+		"Model;models/computer.fbx": "1563d25dba1a5e354d2c3ac951453761.mdl",
+		"Node;models/plane.blend": "c894f9c4197016107068d32a884b2be0",
+		"Model;models/plane.blend": "c894f9c4197016107068d32a884b2be0.mdl"
 	}
 }

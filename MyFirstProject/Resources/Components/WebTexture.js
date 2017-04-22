@@ -2,17 +2,19 @@
 
 const BROWSER_WIDTH = 1024;
 const BROWSER_HEIGHT = 1024;
-const BROWSER_URL = "http://www.atomicgameengine.com/";
+const BROWSER_URL = "http://today.lakeland.edu/";
 
 // First create a web texture and set filtering mode
 var webTexture = new WebView.WebTexture2D();
+
 var texture2D = webTexture.texture2D;
 texture2D.filterMode = Atomic.TextureFilterMode.FILTER_TRILINEAR;
 
 // Setup a simple material for the web texture
 var webMaterial = new Atomic.Material();
-webMaterial.setTechnique(0, Atomic.cache.getResource("Technique", "Techniques/Diff.xml"));
-webMaterial.setTexture(Atomic.TextureUnit.TU_DIFFUSE, texture2D);
+webMaterial.setTechnique(0, Atomic.cache.getResource("Technique", "Techniques/DiffEmissive.xml"));
+webMaterial.setTexture(Atomic.TextureUnit.TU_EMISSIVE, texture2D);
+webMaterial.setShaderParameter("MatEmissiveColor", "1 1 1 1");
 
 // Create web client with pluggable handlers
 var webClient = new WebView.WebClient();
@@ -30,11 +32,22 @@ exports.component = function(self) {
   var model = self.node.getComponent("StaticModel");
   model.setMaterial(webMaterial);
 
+  var hm = true;
+
   // update function
   self.update = function(timeStep) {
 
     // 3D web texture interaction
     var mousePos = Atomic.input.getMousePosition();
+
+    if (Atomic.input.getKeyPress(Atomic.KEY_L)) {
+
+        hm = !hm;
+    }
+
+    if (!hm)
+        return;
+
 
     // normalize x/y
     mousePos[0] /= Atomic.graphics.width;

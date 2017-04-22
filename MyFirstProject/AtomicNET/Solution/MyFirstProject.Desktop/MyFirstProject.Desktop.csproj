@@ -24,7 +24,7 @@
 		<DebugSymbols>true</DebugSymbols>
 		<DebugType>full</DebugType>
 		<PlatformTarget>x64</PlatformTarget>
-		<Commandlineparameters>--resourcePrefix "/opt/AtomicEditor/Resources/" --project "/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/"</Commandlineparameters>
+		<Commandlineparameters>--resourcePrefix "/home/mowgli/src/AtomicGameEngine/Artifacts/AtomicEditor/Resources/" --project "/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/"</Commandlineparameters>
 	</PropertyGroup>
 	<PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
 		<Optimize>true</Optimize>
@@ -37,7 +37,7 @@
 		<NoWarn>1591;1570</NoWarn>
 		<DebugType>full</DebugType>
 		<PlatformTarget>x64</PlatformTarget>
-		<Commandlineparameters>--resourcePrefix "/opt/AtomicEditor/Resources/" --project "/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/"</Commandlineparameters>
+		<Commandlineparameters>--resourcePrefix "/home/mowgli/src/AtomicGameEngine/Artifacts/AtomicEditor/Resources/" --project "/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/"</Commandlineparameters>
 	</PropertyGroup>
 	<ItemGroup>
 		<Reference Include="System" />

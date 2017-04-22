@@ -6,6 +6,11 @@
 			"enums": [],
 			"components": [
 				{
+					"name": "MyWeb",
+					"namespace": "",
+					"fields": []
+				},
+				{
 					"name": "Spinner",
 					"namespace": "",
 					"fields": []
