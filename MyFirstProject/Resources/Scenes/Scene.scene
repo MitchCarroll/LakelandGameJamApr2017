@@ -5,8 +5,8 @@
 	<attribute name="Smoothing Constant" value="50" />
 	<attribute name="Snap Threshold" value="5" />
 	<attribute name="Elapsed Time" value="0" />
-	<attribute name="Next Replicated Node ID" value="387" />
-	<attribute name="Next Replicated Component ID" value="2004" />
+	<attribute name="Next Replicated Node ID" value="402" />
+	<attribute name="Next Replicated Component ID" value="2023" />
 	<attribute name="Next Local Node ID" value="16778496" />
 	<attribute name="Next Local Component ID" value="16777216" />
 	<attribute name="Variables" />
@@ -70,6 +70,25 @@
 					<variant type="Bool" value="true" />
 				</attribute>
 			</component>
+			<node id="389">
+				<attribute name="Is Enabled" value="true" />
+				<attribute name="Name" value="plane" />
+				<attribute name="Tags" />
+				<attribute name="Position" value="24.2686 217.597 -1.24557" />
+				<attribute name="Rotation" value="0.527381 -0.476365 -0.517694 -0.47638" />
+				<attribute name="Scale" value="2 92.4001 1.2" />
+				<attribute name="Variables" />
+				<component type="StaticModel" id="2007">
+					<attribute name="Model" value="Model;f389bf15d93b84a220207972988f8d16.mdl" />
+					<attribute name="Material" value="Material;Models/Materials/TestMat.material" />
+					<attribute name="Geometry Enabled">
+						<variant type="Bool" value="true" />
+					</attribute>
+				</component>
+				<component type="JSComponent" id="2008">
+					<attribute name="ComponentFile" value="JSComponentFile;RenderToTexture.js" />
+				</component>
+			</node>
 		</node>
 		<node id="370">
 			<attribute name="Is Enabled" value="true" />
@@ -84,6 +103,41 @@
 				<attribute name="Material" value="Material;Models/Materials/computer.material" />
 				<attribute name="Can Be Occluded" value="false" />
 				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+			<node id="401">
+				<attribute name="Is Enabled" value="true" />
+				<attribute name="Name" value="TestView" />
+				<attribute name="Tags" />
+				<attribute name="Position" value="80.1955 225.001 0.88736" />
+				<attribute name="Rotation" value="0.510283 -0.466046 -0.534066 -0.487016" />
+				<attribute name="Scale" value="2 92.4001 1.2" />
+				<attribute name="Variables" />
+				<component type="JSComponent" id="2021">
+					<attribute name="ComponentFile" value="JSComponentFile;Components/WebTexture.js" />
+				</component>
+				<component type="StaticModel" id="2022">
+					<attribute name="Model" value="Model;f389bf15d93b84a220207972988f8d16.mdl" />
+					<attribute name="Material" value="Material;" />
+					<attribute name="Geometry Enabled">
+						<variant type="Bool" value="true" />
+					</attribute>
+				</component>
+			</node>
+		</node>
+		<node id="398">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="-75.0364 -166.981 -114.993" />
+			<attribute name="Rotation" value="0.837799 0 -0.545979 0" />
+			<attribute name="Scale" value="1 1 1" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2017">
+				<attribute name="Model" value="Model;750fba157245cc8a0cd8d0d4bcc327a8.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
 				<attribute name="Geometry Enabled">
 					<variant type="Bool" value="true" />
 				</attribute>
