@@ -12,7 +12,7 @@ exports.component = function(self) {
 
   self.update = function(timeStep) {
 
-    self.node.yaw(input.getMouseMoveX()/self.mouse_damper);
+    self.node.yaw(input.getMouseMoveX()/self.mouse_damper,Atomic.TransformSpace.TS_WORLD);
 
   }
 
