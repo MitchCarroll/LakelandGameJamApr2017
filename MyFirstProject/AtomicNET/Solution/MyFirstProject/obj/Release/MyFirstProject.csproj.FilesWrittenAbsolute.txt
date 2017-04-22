@@ -1,5 +1,0 @@
-/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/AtomicNET/Solution/MyFirstProject/obj/Release/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
-/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/AtomicNET/Release/Bin/Portable/MyFirstProject.dll.mdb
-/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/AtomicNET/Release/Bin/Portable/MyFirstProject.dll
-/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/AtomicNET/Solution/MyFirstProject/obj/Release/MyFirstProject.dll
-/home/mowgli/projects/LakelandGameJamApr2017/MyFirstProject/AtomicNET/Solution/MyFirstProject/obj/Release/MyFirstProject.dll.mdb
