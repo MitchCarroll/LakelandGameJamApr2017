@@ -5,8 +5,8 @@
 	<attribute name="Smoothing Constant" value="50" />
 	<attribute name="Snap Threshold" value="5" />
 	<attribute name="Elapsed Time" value="0" />
-	<attribute name="Next Replicated Node ID" value="389" />
-	<attribute name="Next Replicated Component ID" value="2008" />
+	<attribute name="Next Replicated Node ID" value="392" />
+	<attribute name="Next Replicated Component ID" value="2011" />
 	<attribute name="Next Local Node ID" value="16778496" />
 	<attribute name="Next Local Component ID" value="16777216" />
 	<attribute name="Variables" />
@@ -89,8 +89,8 @@
 				<attribute name="Name" value="plane" />
 				<attribute name="Tags" />
 				<attribute name="Position" value="0.080699 -0.0255909 -2.03345" />
-				<attribute name="Rotation" value="-0.499528 0.499528 0.500472 -0.500472" />
-				<attribute name="Scale" value="2.03014 1.25575 3.33334" />
+				<attribute name="Rotation" value="-0.000667543 -0.707107 -0.00066748 0.707106" />
+				<attribute name="Scale" value="1.32291 2.00598 3.33334" />
 				<attribute name="Variables" />
 				<component type="StaticModel" id="1989">
 					<attribute name="Model" value="Model;9a8f2bf649a8374ec766c8d9099b9628.mdl" />
@@ -142,8 +142,8 @@
 				<attribute name="Name" value="plane" />
 				<attribute name="Tags" />
 				<attribute name="Position" value="0.0807285 -0.02561 -2.05137" />
-				<attribute name="Rotation" value="-0.499528 0.499528 0.500472 -0.500472" />
-				<attribute name="Scale" value="2.03014 1.25575 3.33334" />
+				<attribute name="Rotation" value="-0.000667499 -0.707106 -0.000667437 0.707106" />
+				<attribute name="Scale" value="1.35235 1.99914 4.50269" />
 				<attribute name="Variables" />
 				<component type="StaticModel" id="2000">
 					<attribute name="Model" value="Model;9a8f2bf649a8374ec766c8d9099b9628.mdl" />
@@ -158,15 +158,15 @@
 			</node>
 		</node>
 	</node>
-	<node id="388">
+	<node id="391">
 		<attribute name="Is Enabled" value="true" />
 		<attribute name="Name" value="empty_monitor" />
 		<attribute name="Tags" />
-		<attribute name="Position" value="-1.82 -0.54 9.15" />
+		<attribute name="Position" value="1.04243 -1.98825 9.15" />
 		<attribute name="Rotation" value="1 0 0 0" />
 		<attribute name="Scale" value="0.1 0.1 17.0356" />
 		<attribute name="Variables" />
-		<component type="StaticSprite2D" id="2007">
+		<component type="StaticSprite2D" id="2010">
 			<attribute name="Sprite" value="Sprite2D;Textures/empty_monitor.png" />
 			<attribute name="Draw Rectangle" value="-9.6 -5.4 9.6 5.4" />
 			<attribute name="Texture Rectangle" value="0 1 1 0" />
