@@ -1,12 +1,12 @@
 {
 	"assetMap": {
-		"Node;models/desk.blend": "473f88d9a3cb4ef5998edee13954f00a",
-		"Model;models/desk.blend": "473f88d9a3cb4ef5998edee13954f00a.mdl",
-		"Node;models/mug.blend": "50f12e55b614667bbb6b96628fa33bad",
-		"Model;models/mug.blend": "50f12e55b614667bbb6b96628fa33bad.mdl",
 		"Node;models/plane.blend": "9a8f2bf649a8374ec766c8d9099b9628",
 		"Model;models/plane.blend": "9a8f2bf649a8374ec766c8d9099b9628.mdl",
+		"Node;models/mug.blend": "50f12e55b614667bbb6b96628fa33bad",
+		"Model;models/mug.blend": "50f12e55b614667bbb6b96628fa33bad.mdl",
 		"Node;models/computer.blend": "d0ebcde7dcc05e9f8f9667dc037a71ef",
-		"Model;models/computer.blend": "d0ebcde7dcc05e9f8f9667dc037a71ef.mdl"
+		"Model;models/computer.blend": "d0ebcde7dcc05e9f8f9667dc037a71ef.mdl",
+		"Node;models/desk.blend": "473f88d9a3cb4ef5998edee13954f00a",
+		"Model;models/desk.blend": "473f88d9a3cb4ef5998edee13954f00a.mdl"
 	}
 }
