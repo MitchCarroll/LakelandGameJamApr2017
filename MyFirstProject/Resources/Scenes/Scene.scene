@@ -5,8 +5,8 @@
 	<attribute name="Smoothing Constant" value="50" />
 	<attribute name="Snap Threshold" value="5" />
 	<attribute name="Elapsed Time" value="0" />
-	<attribute name="Next Replicated Node ID" value="378" />
-	<attribute name="Next Replicated Component ID" value="1994" />
+	<attribute name="Next Replicated Node ID" value="379" />
+	<attribute name="Next Replicated Component ID" value="1995" />
 	<attribute name="Next Local Node ID" value="16778496" />
 	<attribute name="Next Local Component ID" value="16777216" />
 	<attribute name="Variables" />
@@ -139,7 +139,7 @@
 				<attribute name="Name" value="plane" />
 				<attribute name="Tags" />
 				<attribute name="Position" value="0.0807171 -0.0255947 -2.15836" />
-				<attribute name="Rotation" value="-0.499528 0.499528 0.500472 -0.500472" />
+				<attribute name="Rotation" value="-0.49807 0.49807 0.501925 -0.501925" />
 				<attribute name="Scale" value="2.03014 1.25575 3.33334" />
 				<attribute name="Variables" />
 				<component type="StaticModel" id="1992">
