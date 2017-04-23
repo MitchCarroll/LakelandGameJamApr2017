@@ -5,8 +5,8 @@
 	<attribute name="Smoothing Constant" value="50" />
 	<attribute name="Snap Threshold" value="5" />
 	<attribute name="Elapsed Time" value="0" />
-	<attribute name="Next Replicated Node ID" value="392" />
-	<attribute name="Next Replicated Component ID" value="2011" />
+	<attribute name="Next Replicated Node ID" value="481" />
+	<attribute name="Next Replicated Component ID" value="2106" />
 	<attribute name="Next Local Node ID" value="16778496" />
 	<attribute name="Next Local Component ID" value="16777216" />
 	<attribute name="Variables" />
@@ -108,7 +108,7 @@
 			<attribute name="Is Enabled" value="true" />
 			<attribute name="Name" value="mug" />
 			<attribute name="Tags" />
-			<attribute name="Position" value="-77.3194 -165.729 -161.503" />
+			<attribute name="Position" value="-77.3193 -165.729 -223.884" />
 			<attribute name="Rotation" value="0.5 0.5 -0.5 0.5" />
 			<attribute name="Scale" value="100 100 100" />
 			<attribute name="Variables" />
@@ -156,6 +156,363 @@
 					<attribute name="ComponentFile" value="JSComponentFile;Components/screen1.js" />
 				</component>
 			</node>
+		</node>
+		<node id="395">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="-77.3194 -165.729 -181.738" />
+			<attribute name="Rotation" value="0.435381 0.435381 -0.557174 0.557174" />
+			<attribute name="Scale" value="100 100 99.9999" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2014">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="398">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="-77.3193 -165.729 -290.581" />
+			<attribute name="Rotation" value="-0.225939 -0.225939 -0.670038 0.670038" />
+			<attribute name="Scale" value="100 100 99.9999" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2017">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="425">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="-77.3194 -165.729 -122.899" />
+			<attribute name="Rotation" value="0.500001 0.5 -0.499999 0.499999" />
+			<attribute name="Scale" value="99.9999 100 99.9998" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2050">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="428">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="-3.51996 -165.729 -122.899" />
+			<attribute name="Rotation" value="0.406435 0.406435 0.578628 -0.578629" />
+			<attribute name="Scale" value="99.9999 100 99.9997" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2053">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="431">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="-3.51996 -165.729 -86.4658" />
+			<attribute name="Rotation" value="0.500002 0.5 -0.499999 0.499999" />
+			<attribute name="Scale" value="99.9998 100 99.9996" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2056">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="434">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="55.9053 -165.729 -86.466" />
+			<attribute name="Rotation" value="-0.0917443 -0.0917454 -0.701129 0.70113" />
+			<attribute name="Scale" value="99.9997 100 99.9995" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2059">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="437">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="55.9055 -165.729 -51.4446" />
+			<attribute name="Rotation" value="0.701239 0.701237 -0.090911 0.0909099" />
+			<attribute name="Scale" value="99.9997 100 99.9993" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2062">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="440">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="55.9056 -165.729 -17.3394" />
+			<attribute name="Rotation" value="0.500003 0.5 -0.499998 0.499998" />
+			<attribute name="Scale" value="99.9996 100 99.9992" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2065">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="443">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="159.458 -168.733 5.54411" />
+			<attribute name="Rotation" value="-0.356711 -0.356711 -0.610536 0.61054" />
+			<attribute name="Scale" value="99.9996 99.9999 99.9991" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2068">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="446">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="205.266 -165.73 -51.4458" />
+			<attribute name="Rotation" value="0.694372 0.69437 0.133598 -0.1336" />
+			<attribute name="Scale" value="99.9996 100 99.9992" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2071">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="449">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="205.266 -165.73 -22.0629" />
+			<attribute name="Rotation" value="0.500004 0.5 -0.499997 0.499998" />
+			<attribute name="Scale" value="99.9996 99.9999 99.9991" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2074">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="452">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="205.266 -165.73 6.35748" />
+			<attribute name="Rotation" value="0.689339 0.689336 -0.157524 0.157523" />
+			<attribute name="Scale" value="99.9995 99.9999 99.999" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2077">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="455">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="205.266 -165.73 42.111" />
+			<attribute name="Rotation" value="0.500005 0.5 -0.499997 0.499998" />
+			<attribute name="Scale" value="99.9994 99.9999 99.9988" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2080">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="458">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="152.787 -165.73 42.1115" />
+			<attribute name="Rotation" value="0.663773 0.664136 0.243732 -0.242738" />
+			<attribute name="Scale" value="99.9994 99.9999 99.9987" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2083">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="461">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="150.172 -165.73 -51.4454" />
+			<attribute name="Rotation" value="0.675516 0.675513 -0.208998 0.208997" />
+			<attribute name="Scale" value="99.9996 99.9999 99.9991" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2086">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="464">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="205.266 -165.73 -81.5483" />
+			<attribute name="Rotation" value="0.529774 0.529771 -0.468338 0.468338" />
+			<attribute name="Scale" value="99.9996 99.9999 99.9991" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2089">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="467">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="-3.5199 -165.729 -165.656" />
+			<attribute name="Rotation" value="0.307624 0.307622 -0.636684 0.636685" />
+			<attribute name="Scale" value="99.9998 100 99.9996" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2092">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="470">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="-5.23126 -165.729 -223.884" />
+			<attribute name="Rotation" value="0.5 0.5 -0.5 0.5" />
+			<attribute name="Scale" value="100 100 99.9999" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2095">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="473">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="-41.9102 -165.729 -199.049" />
+			<attribute name="Rotation" value="0.500002 0.5 -0.499998 0.499999" />
+			<attribute name="Scale" value="99.9997 100 99.9995" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2098">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="476">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="-21.8914 -165.729 -150.9" />
+			<attribute name="Rotation" value="0.500002 0.5 -0.499999 0.499999" />
+			<attribute name="Scale" value="99.9998 100 99.9996" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2101">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
+		</node>
+		<node id="479">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mug" />
+			<attribute name="Tags" />
+			<attribute name="Position" value="-19.9343 -161.183 -245.422" />
+			<attribute name="Rotation" value="0.500001 0.5 -0.499999 0.499999" />
+			<attribute name="Scale" value="99.9999 100 99.9998" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="2104">
+				<attribute name="Model" value="Model;50f12e55b614667bbb6b96628fa33bad.mdl" />
+				<attribute name="Material" value="Material;Models/Materials/Material.001.material" />
+				<attribute name="Cast Shadows" value="true" />
+				<attribute name="Geometry Enabled">
+					<variant type="Bool" value="true" />
+				</attribute>
+			</component>
 		</node>
 	</node>
 	<node id="391">
