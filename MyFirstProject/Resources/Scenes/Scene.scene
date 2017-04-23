@@ -5,15 +5,17 @@
 	<attribute name="Smoothing Constant" value="50" />
 	<attribute name="Snap Threshold" value="5" />
 	<attribute name="Elapsed Time" value="0" />
-	<attribute name="Next Replicated Node ID" value="393" />
-	<attribute name="Next Replicated Component ID" value="2012" />
+	<attribute name="Next Replicated Node ID" value="481" />
+	<attribute name="Next Replicated Component ID" value="2106" />
 	<attribute name="Next Local Node ID" value="16778496" />
 	<attribute name="Next Local Component ID" value="16777216" />
 	<attribute name="Variables" />
 	<attribute name="Variable Names" value="" />
 	<component type="PhysicsWorld" id="1" />
 	<component type="Octree" id="2" />
-	<component type="DebugRenderer" id="3" />
+	<component type="DebugRenderer" id="3">
+		<attribute name="Line Antialias" value="true" />
+	</component>
 	<component type="Renderer2D" id="2004" />
 	<node id="3">
 		<attribute name="Is Enabled" value="true" />
@@ -38,7 +40,7 @@
 		<attribute name="Name" value="Camera" />
 		<attribute name="Tags" />
 		<attribute name="Position" value="-2.78071 0.0458941 9.15532" />
-		<attribute name="Rotation" value="0.819978 0.0860903 0.564274 -0.0426461" />
+		<attribute name="Rotation" value="0.858144 0.0828286 0.504339 -0.0486791" />
 		<attribute name="Scale" value="1 1 1" />
 		<attribute name="Variables" />
 		<component type="Camera" id="1973">
@@ -166,6 +168,8 @@
 		<attribute name="Variables" />
 		<component type="StaticSprite2D" id="2010">
 			<attribute name="Sprite" value="Sprite2D;Textures/empty_monitor.png" />
+			<attribute name="Draw Rectangle" value="-9.6 -5.4 9.6 5.4" />
+			<attribute name="Texture Rectangle" value="0 1 1 0" />
 		</component>
 	</node>
 </scene>
