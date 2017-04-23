@@ -2,7 +2,7 @@
 
 const BROWSER_WIDTH = 1024;
 const BROWSER_HEIGHT = 1024;
-const BROWSER_URL = "http://www.google.com/";
+const BROWSER_URL = "https://www.youtube.com/watch?v=_sEP-R6Nses";
 
 // First create a web texture and set filtering mode
 var webTexture = new WebView.WebTexture2D();
